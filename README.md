@@ -6,6 +6,12 @@ A payment fails but the money is debited anyway. The refund worker log says `SUC
 
 Full challenge rules: [`problem_statement.md`](problem_statement.md). All banks, people and numbers in the data are fictional.
 
+## Live demo
+
+**[Open the dashboard](https://shruthimogilicharla.github.io/Refund_Never_Arrived/)**: all 300 complaints, each with the agent's step-by-step reasoning and plan.
+
+![Dashboard](docs/preview.png)
+
 ## Result
 
 | Set | Row exact | Verdict | Money | Step F1 |
@@ -58,6 +64,7 @@ python code/evaluation/main.py --pred sample_predictions.csv --answers dataset/s
 python code/main.py                    # 300 complaints -> output.csv
 python code/main.py --explain R0002    # one complaint, step by step
 python -m pytest -q                    # 12 tests
+python code/dashboard.py               # builds docs/index.html and opens it
 ```
 
 Optional LLM reader (any OpenAI-compatible API, key from environment only):
