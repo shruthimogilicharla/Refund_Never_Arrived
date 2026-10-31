@@ -1,0 +1,13 @@
+# Sahyadri Bank e-statement XX1392,period 2026-07-17..2026-08-07,generated 2026-08-07T22:31:00+05:30
+txn_date,description,withdrawal,deposit
+17-Jul-2026,POS/SnackShack,500.00,
+21-Jul-2026,ATM WDL,850.00,
+22-Jul-2026,UPI/PowerGrid Bills,120.00,
+23-Jul-2026,UPI/PowerGrid Bills,340.00,
+26-Jul-2026,UPI/DR/661079061565/Manoj Goud,3200.00,
+28-Jul-2026,IMPS CR FAMILY,,25000.00
+30-Jul-2026,UPI/PowerGrid Bills,60.00,
+01-Aug-2026,IMPS CR FAMILY,,15000.00
+04-Aug-2026,UPI/FuelPoint,850.00,
+06-Aug-2026,UPI/PowerGrid Bills,1500.00,
+07-Aug-2026,IMPS CR FAMILY,,15000.00

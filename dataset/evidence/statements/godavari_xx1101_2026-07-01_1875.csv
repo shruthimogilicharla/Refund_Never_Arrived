@@ -1,0 +1,15 @@
+# Godavari Bank e-statement XX1101,period 2026-06-08..2026-07-01,generated 2026-07-01T19:58:00+05:30
+txn_date,description,withdrawal,deposit
+08-Jun-2026,UPI/PowerGrid Bills,1500.00,
+09-Jun-2026,UPI/FuelPoint,60.00,
+10-Jun-2026,UPI/FuelPoint,120.00,
+11-Jun-2026,IMPS/DR/632498067679/Teja Sharma,7500.50,
+12-Jun-2026,NEFT CR SALARY ACME INFRA,,5000.00
+13-Jun-2026,POS/SnackShack,60.00,
+16-Jun-2026,UPI/FuelPoint,1500.00,
+17-Jun-2026,IMPS CR FAMILY,,5000.00
+18-Jun-2026,UPI/FuelPoint,340.00,
+23-Jun-2026,POS/SnackShack,500.00,
+24-Jun-2026,ATM WDL,850.00,
+25-Jun-2026,IMPS CR FAMILY,,25000.00
+28-Jun-2026,UPI/FuelPoint,500.00,

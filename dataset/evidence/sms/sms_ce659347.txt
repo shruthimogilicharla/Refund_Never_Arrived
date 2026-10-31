@@ -1,0 +1,4 @@
+# SMS export for 9051837612
+16-07-26 13:45 | Rs.2,500.00 debited from A/c XX1174 to IFSC-DEMO000439 Ref 611303891480. Not you? Call 1800-000-000 -Konark Bank
+16-07-26 15:45 | Your txn Ref 611303891480 of Rs.2,500.00 failed. Amount if debited will be reversed within 3-5 working days -Konark Bank
+17-07-26 13:45 | Refund of Rs.2,500.00 for Ref 611303891480 processed successfully -Konark Bank

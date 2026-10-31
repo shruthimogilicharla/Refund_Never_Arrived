@@ -1,0 +1,4 @@
+# SMS export for 9483670887
+10-07-26 18:17 | Rs.1,499.00 debited from A/c XX1257 to IFSC-DEMO000795 Ref 688094978314. Not you? Call 1800-000-000 -Deccan Co-op Bank
+10-07-26 20:17 | Your txn Ref 688094978314 of Rs.1,499.00 failed. Amount if debited will be reversed within 3-5 working days -Deccan Co-op Bank
+11-07-26 18:17 | Refund of Rs.1,499.00 for Ref 688094978314 processed successfully -Deccan Co-op Bank

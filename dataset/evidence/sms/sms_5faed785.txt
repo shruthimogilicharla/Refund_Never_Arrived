@@ -1,0 +1,4 @@
+# SMS export for 9257978176
+20-08-26 08:15 | Rs.1,499.00 debited from A/c XX1264 to IFSC-DEMO000353 Ref 686438417550. Not you? Call 1800-000-000 -Sahyadri Bank
+20-08-26 10:15 | Your txn Ref 686438417550 of Rs.1,499.00 failed. Amount if debited will be reversed within 3-5 working days -Sahyadri Bank
+21-08-26 08:15 | Refund of Rs.1,499.00 for Ref 686438417550 processed successfully -Sahyadri Bank

@@ -1,0 +1,9 @@
+From: support@freshbasket.test
+Subject: Refund processed for order ORD559509
+
+Hi,
+
+Your payment of Rs 150.00 for order ORD559509 could not be completed.
+We have processed a refund (UPI Ref 600095681172). It will reflect in your account in 5-7 working days.
+
+Team FreshBasket

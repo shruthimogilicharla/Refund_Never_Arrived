@@ -1,0 +1,10 @@
+# Sahyadri Bank e-statement XX1307,period 2026-07-04..2026-07-27,generated 2026-07-27T21:54:00+05:30
+txn_date,description,withdrawal,deposit
+04-Jul-2026,UPI/FuelPoint,1500.00,
+08-Jul-2026,IMPS/DR/621141974810/Priya Varma,2000.00,
+09-Jul-2026,UPI/BookNest,850.00,
+11-Jul-2026,UPI/BookNest,500.00,
+12-Jul-2026,UPI/FuelPoint,500.00,
+19-Jul-2026,NEFT CR SALARY ACME INFRA,,25000.00
+21-Jul-2026,UPI/FuelPoint,850.00,
+22-Jul-2026,UPI/BookNest,500.00,

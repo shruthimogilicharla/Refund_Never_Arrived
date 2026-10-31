@@ -1,0 +1,4 @@
+# SMS export for 9595349404
+03-08-26 14:39 | Rs.7,500.50 debited from A/c XX1087 to snackshack@pg Ref 617049169820. Not you? Call 1800-000-000 -Godavari Bank
+03-08-26 16:39 | Your txn Ref 617049169820 of Rs.7,500.50 failed. Amount if debited will be reversed within 3-5 working days -Godavari Bank
+04-08-26 14:39 | Refund of Rs.7,500.50 for Ref 617049169820 processed successfully -Godavari Bank

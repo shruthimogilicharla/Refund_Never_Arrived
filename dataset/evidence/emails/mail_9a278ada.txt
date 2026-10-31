@@ -1,0 +1,9 @@
+From: support@snackshack.test
+Subject: Refund processed for order ORD478072
+
+Hi,
+
+Your payment of Rs 1,200.00 for order ORD478072 could not be completed.
+We have processed a refund (UPI Ref 672043056964). It will reflect in your account in 5-7 working days.
+
+Team SnackShack

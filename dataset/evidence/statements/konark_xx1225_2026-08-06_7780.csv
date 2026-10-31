@@ -1,0 +1,19 @@
+# Konark Bank e-statement XX1225,period 2026-06-24..2026-08-06,generated 2026-08-06T23:33:00+05:30
+txn_date,description,withdrawal,deposit
+24-Jun-2026,UPI/FuelPoint,60.00,
+26-Jun-2026,UPI/BookNest,340.00,
+27-Jun-2026,UPI/DR/667502007381/Swathi Chowd,249.50,
+30-Jun-2026,UPI/FuelPoint,500.00,
+02-Jul-2026,UPI/BookNest,500.00,
+04-Jul-2026,UPI/FuelPoint,850.00,
+09-Jul-2026,UPI/FuelPoint,1500.00,
+12-Jul-2026,UPI/FuelPoint,850.00,
+17-Jul-2026,UPI/FuelPoint,120.00,
+23-Jul-2026,ATM WDL,60.00,
+24-Jul-2026,ATM WDL,60.00,
+26-Jul-2026,ATM WDL,60.00,
+28-Jul-2026,ATM WDL,500.00,
+29-Jul-2026,UPI/PowerGrid Bills,500.00,
+31-Jul-2026,ATM WDL,120.00,
+02-Aug-2026,IMPS CR FAMILY,,25000.00
+06-Aug-2026,IMPS CR FAMILY,,5000.00

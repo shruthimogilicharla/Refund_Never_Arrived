@@ -1,0 +1,9 @@
+# Konark Bank e-statement XX1148,period 2026-06-19..2026-07-03,generated 2026-07-03T23:00:00+05:30
+txn_date,description,withdrawal,deposit
+20-Jun-2026,NEFT CR SALARY ACME INFRA,,5000.00
+21-Jun-2026,ATM WDL,60.00,
+23-Jun-2026,IMPS/DR/669717718454/Ravi Joshi,150.00,
+24-Jun-2026,UPI/FuelPoint,1500.00,
+25-Jun-2026,UPI/BookNest,850.00,
+29-Jun-2026,UPI/PowerGrid Bills,850.00,
+02-Jul-2026,IMPS CR FAMILY,,15000.00

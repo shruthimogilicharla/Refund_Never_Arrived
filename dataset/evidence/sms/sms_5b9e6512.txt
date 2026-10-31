@@ -1,0 +1,4 @@
+# SMS export for 9622624921
+15-06-26 08:27 | Rs.1,200.00 debited from A/c XX1338 to quickkart@pg Ref 641828283068. Not you? Call 1800-000-000 -Sahyadri Bank
+15-06-26 10:27 | Your txn Ref 641828283068 of Rs.1,200.00 failed. Amount if debited will be reversed within 3-5 working days -Sahyadri Bank
+16-06-26 08:27 | Refund of Rs.1,200.00 for Ref 641828283068 processed successfully -Sahyadri Bank

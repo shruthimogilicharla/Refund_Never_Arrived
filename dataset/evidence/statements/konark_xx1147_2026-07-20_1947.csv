@@ -1,0 +1,9 @@
+# Konark Bank e-statement XX1147,period 2026-07-08..2026-07-20,generated 2026-07-20T21:58:00+05:30
+txn_date,description,withdrawal,deposit
+09-Jul-2026,UPI/FuelPoint,120.00,
+10-Jul-2026,UPI/FuelPoint,850.00,
+10-Jul-2026,UPI/REV/677435270688/Pooja Men,,499.00
+12-Jul-2026,UPI/DR/679394462169/Meera Gupta,499.00,
+16-Jul-2026,UPI/REV/679394462169/Meera Gupta,,124.75
+17-Jul-2026,POS/SnackShack,500.00,
+20-Jul-2026,UPI/PowerGrid Bills,340.00,

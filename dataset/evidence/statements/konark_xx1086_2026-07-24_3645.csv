@@ -1,0 +1,14 @@
+# Konark Bank e-statement XX1086,period 2026-06-12..2026-07-24,generated 2026-07-24T21:48:00+05:30
+txn_date,description,withdrawal,deposit
+13-Jun-2026,UPI/PowerGrid Bills,500.00,
+15-Jun-2026,ATM WDL,850.00,
+18-Jun-2026,ATM WDL,850.00,
+21-Jun-2026,IMPS/DR/664548773775/Pooja Reddy,12000.00,
+23-Jun-2026,UPI/BookNest,120.00,
+03-Jul-2026,UPI/BookNest,120.00,
+06-Jul-2026,POS/SnackShack,340.00,
+07-Jul-2026,REV-773775 IMPS CR,,12000.00
+08-Jul-2026,IMPS CR FAMILY,,5000.00
+19-Jul-2026,UPI/BookNest,340.00,
+21-Jul-2026,IMPS CR FAMILY,,15000.00
+24-Jul-2026,UPI/FuelPoint,120.00,

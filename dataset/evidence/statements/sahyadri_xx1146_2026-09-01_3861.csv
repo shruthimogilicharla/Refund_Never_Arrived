@@ -1,0 +1,10 @@
+# Sahyadri Bank e-statement XX1146,period 2026-08-18..2026-09-01,generated 2026-09-01T21:54:00+05:30
+txn_date,description,withdrawal,deposit
+20-Aug-2026,UPI/PowerGrid Bills,850.00,
+22-Aug-2026,POS/SnackShack,60.00,
+22-Aug-2026,UPI/DR/649915563709/Harika Das,2000.00,
+23-Aug-2026,UPI/REV/609507671650/Manoj Iye,,2000.00
+26-Aug-2026,UPI/FuelPoint,120.00,
+27-Aug-2026,POS/SnackShack,120.00,
+30-Aug-2026,NEFT CR SALARY ACME INFRA,,15000.00
+31-Aug-2026,UPI/PowerGrid Bills,120.00,

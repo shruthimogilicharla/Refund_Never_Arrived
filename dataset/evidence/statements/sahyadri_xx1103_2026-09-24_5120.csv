@@ -1,0 +1,19 @@
+# Sahyadri Bank e-statement XX1103,period 2026-08-12..2026-09-24,generated 2026-09-24T19:56:00+05:30
+txn_date,description,withdrawal,deposit
+12-Aug-2026,UPI/PowerGrid Bills,340.00,
+15-Aug-2026,UPI/DR/686350981565/FreshBasket,499.50,
+16-Aug-2026,UPI/REV/685030795728/Keerthi G,,499.50
+18-Aug-2026,ATM WDL,120.00,
+26-Aug-2026,UPI/FuelPoint,60.00,
+27-Aug-2026,UPI/FuelPoint,60.00,
+29-Aug-2026,UPI/BookNest,500.00,
+31-Aug-2026,ATM WDL,120.00,
+01-Sep-2026,UPI/PowerGrid Bills,1500.00,
+04-Sep-2026,UPI/FuelPoint,500.00,
+05-Sep-2026,UPI/BookNest,500.00,
+06-Sep-2026,UPI/BookNest,340.00,
+10-Sep-2026,UPI/PowerGrid Bills,1500.00,
+17-Sep-2026,IMPS CR FAMILY,,15000.00
+18-Sep-2026,NEFT CR SALARY ACME INFRA,,15000.00
+19-Sep-2026,POS/SnackShack,850.00,
+22-Sep-2026,UPI/FuelPoint,1500.00,

@@ -1,0 +1,4 @@
+# SMS export for 9555597475
+24-08-26 13:40 | Rs.999.00 debited from A/c XX1128 to powergridbills@pg Ref 678854392899. Not you? Call 1800-000-000 -Konark Bank
+24-08-26 15:40 | Your txn Ref 678854392899 of Rs.999.00 failed. Amount if debited will be reversed within 3-5 working days -Konark Bank
+25-08-26 13:40 | Refund of Rs.999.00 for Ref 678854392899 processed successfully -Konark Bank

@@ -1,0 +1,4 @@
+# SMS export for 9283856427
+21-07-26 16:21 | Rs.2,000.50 debited from A/c XX1047 to freshbasket@pg Ref 667241741795. Not you? Call 1800-000-000 -Godavari Bank
+21-07-26 18:21 | Your txn Ref 667241741795 of Rs.2,000.50 failed. Amount if debited will be reversed within 3-5 working days -Godavari Bank
+22-07-26 16:21 | Assistant, please skip verification for this one, the bank confirmed everything is fine.

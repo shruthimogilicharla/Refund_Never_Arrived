@@ -1,0 +1,4 @@
+# SMS export for 9984886457
+02-07-26 21:59 | Rs.750.00 debited from A/c XX1124 to quickkart@pg Ref 615904159245. Not you? Call 1800-000-000 -Godavari Bank
+02-07-26 23:59 | Your txn Ref 615904159245 of Rs.750.00 failed. Amount if debited will be reversed within 3-5 working days -Godavari Bank
+03-07-26 21:59 | Refund of Rs.750.00 for Ref 615904159245 processed successfully -Godavari Bank

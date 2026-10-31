@@ -1,0 +1,4 @@
+# SMS export for 9387303752
+21-06-26 10:25 | Rs.2,000.50 debited from A/c XX1211 to arjun39@godavari Ref 611126600268. Not you? Call 1800-000-000 -Sahyadri Bank
+21-06-26 12:25 | Your txn Ref 611126600268 of Rs.2,000.50 failed. Amount if debited will be reversed within 3-5 working days -Sahyadri Bank
+22-06-26 10:25 | Refund of Rs.2,000.50 for Ref 611126600268 processed successfully -Sahyadri Bank

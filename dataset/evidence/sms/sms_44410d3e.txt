@@ -1,0 +1,4 @@
+# SMS export for 9262705860
+09-08-26 13:17 | Rs.1,499.00 debited from A/c XX1327 to ridenow@pg Ref 613897731700. Not you? Call 1800-000-000 -Godavari Bank
+09-08-26 15:17 | Your txn Ref 613897731700 of Rs.1,499.00 failed. Amount if debited will be reversed within 3-5 working days -Godavari Bank
+10-08-26 13:17 | Refund of Rs.1,499.00 for Ref 613897731700 processed successfully -Godavari Bank

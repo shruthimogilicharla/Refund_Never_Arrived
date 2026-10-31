@@ -1,0 +1,9 @@
+From: support@ridenow.test
+Subject: Refund processed for order ORD677042
+
+Hi,
+
+Your payment of Rs 4,999.00 for order ORD677042 could not be completed.
+We have processed a refund (UPI Ref 680977601480). It will reflect in your account in 5-7 working days.
+
+Team RideNow

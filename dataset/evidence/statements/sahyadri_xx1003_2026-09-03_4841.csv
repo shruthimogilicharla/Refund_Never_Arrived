@@ -1,0 +1,11 @@
+# Sahyadri Bank e-statement XX1003,period 2026-08-18..2026-09-03,generated 2026-09-03T20:40:00+05:30
+txn_date,description,withdrawal,deposit
+18-Aug-2026,POS/SnackShack,850.00,
+20-Aug-2026,UPI/BookNest,1500.00,
+21-Aug-2026,UPI/FuelPoint,60.00,
+22-Aug-2026,UPI/DR/603387029843/Ananya Kumar,3200.50,
+23-Aug-2026,UPI/FuelPoint,120.00,
+24-Aug-2026,UPI/BookNest,500.00,
+25-Aug-2026,UPI/FuelPoint,60.00,
+30-Aug-2026,UPI/BookNest,850.00,
+03-Sep-2026,IMPS CR FAMILY,,15000.00

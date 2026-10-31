@@ -1,0 +1,4 @@
+# SMS export for 9252042651
+02-07-26 17:02 | Rs.2,000.00 debited from A/c XX1040 to snackshack@pg Ref 672128274118. Not you? Call 1800-000-000 -Sahyadri Bank
+02-07-26 19:02 | Your txn Ref 672128274118 of Rs.2,000.00 failed. Amount if debited will be reversed within 3-5 working days -Sahyadri Bank
+03-07-26 17:02 | Refund of Rs.2,000.00 for Ref 672128274118 processed successfully -Sahyadri Bank

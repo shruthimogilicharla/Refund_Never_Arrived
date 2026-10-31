@@ -1,0 +1,15 @@
+# Godavari Bank e-statement XX1272,period 2026-06-03..2026-07-10,generated 2026-07-10T19:11:00+05:30
+txn_date,description,withdrawal,deposit
+03-Jun-2026,UPI/BookNest,500.00,
+06-Jun-2026,POS/SnackShack,850.00,
+07-Jun-2026,UPI/PowerGrid Bills,60.00,
+09-Jun-2026,UPI/BookNest,340.00,
+12-Jun-2026,UPI/DR/619001681667/Swathi Gupta,2500.00,
+13-Jun-2026,REV-681667 UPI CR,,1250.00
+13-Jun-2026,UPI/BookNest,60.00,
+16-Jun-2026,REV-681667 UPI CR,,1250.00
+19-Jun-2026,POS/SnackShack,500.00,
+20-Jun-2026,IMPS CR FAMILY,,5000.00
+22-Jun-2026,POS/SnackShack,120.00,
+23-Jun-2026,NEFT CR SALARY ACME INFRA,,15000.00
+27-Jun-2026,POS/SnackShack,120.00,

@@ -1,0 +1,15 @@
+# Konark Bank e-statement XX1215,period 2026-08-25..2026-09-21,generated 2026-09-21T22:47:00+05:30
+txn_date,description,withdrawal,deposit
+25-Aug-2026,UPI/BookNest,60.00,
+26-Aug-2026,IMPS CR FAMILY,,15000.00
+29-Aug-2026,UPI/BookNest,500.00,
+29-Aug-2026,UPI/DR/672602948979/Sai Reddy,7500.00,
+29-Aug-2026,UPI/REV/672602948979/Sai Reddy,,7500.00
+30-Aug-2026,NEFT CR SALARY ACME INFRA,,25000.00
+10-Sep-2026,UPI/PowerGrid Bills,340.00,
+11-Sep-2026,UPI/PowerGrid Bills,340.00,
+14-Sep-2026,NEFT CR SALARY ACME INFRA,,5000.00
+16-Sep-2026,UPI/PowerGrid Bills,850.00,
+17-Sep-2026,UPI/PowerGrid Bills,1500.00,
+19-Sep-2026,UPI/PowerGrid Bills,500.00,
+20-Sep-2026,ATM WDL,340.00,

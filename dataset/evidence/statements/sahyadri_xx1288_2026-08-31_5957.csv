@@ -1,0 +1,8 @@
+# Sahyadri Bank e-statement XX1288,period 2026-08-19..2026-08-31,generated 2026-08-31T19:56:00+05:30
+txn_date,description,withdrawal,deposit
+19-Aug-2026,UPI/PowerGrid Bills,500.00,
+22-Aug-2026,UPI/DR/665936014834/Meera Pillai,999.50,
+23-Aug-2026,UPI/REV/665936014834/Meera Pillai,,999.50
+24-Aug-2026,POS/SnackShack,500.00,
+28-Aug-2026,POS/SnackShack,120.00,
+31-Aug-2026,ATM WDL,500.00,

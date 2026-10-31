@@ -1,0 +1,9 @@
+From: support@fuelpoint.test
+Subject: Refund processed for order ORD669551
+
+Hi,
+
+Your payment of Rs 7,500.00 for order ORD669551 could not be completed.
+We have processed a refund (UPI Ref 638046853287). It will reflect in your account in 5-7 working days.
+
+Team FuelPoint

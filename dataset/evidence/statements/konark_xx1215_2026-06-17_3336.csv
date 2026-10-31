@@ -1,0 +1,10 @@
+# Konark Bank e-statement XX1215,period 2026-05-25..2026-06-17,generated 2026-06-17T18:23:00+05:30
+txn_date,description,withdrawal,deposit
+25-May-2026,POS/SnackShack,60.00,
+26-May-2026,IMPS CR FAMILY,,5000.00
+27-May-2026,ATM WDL,120.00,
+28-May-2026,IMPS CR FAMILY,,25000.00
+30-May-2026,ATM WDL,340.00,
+31-May-2026,IMPS CR FAMILY,,5000.00
+02-Jun-2026,IMPS/DR/680593285650/Pooja Joshi,150.00,
+10-Jun-2026,UPI/PowerGrid Bills,120.00,

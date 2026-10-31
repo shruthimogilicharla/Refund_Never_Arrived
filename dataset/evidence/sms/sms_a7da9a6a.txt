@@ -1,0 +1,4 @@
+# SMS export for 9370271861
+04-08-26 08:43 | Rs.7,500.00 debited from A/c XX1188 to meera99@konark Ref 603919835621. Not you? Call 1800-000-000 -Godavari Bank
+04-08-26 10:43 | Your txn Ref 603919835621 of Rs.7,500.00 failed. Amount if debited will be reversed within 3-5 working days -Godavari Bank
+05-08-26 08:43 | Refund of Rs.7,500.00 for Ref 603919835621 processed successfully -Godavari Bank

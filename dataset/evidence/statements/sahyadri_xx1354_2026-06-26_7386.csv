@@ -1,0 +1,14 @@
+# Sahyadri Bank e-statement XX1354,period 2026-05-28..2026-06-26,generated 2026-06-26T19:54:00+05:30
+txn_date,description,withdrawal,deposit
+29-May-2026,ATM WDL,850.00,
+30-May-2026,ATM WDL,1500.00,
+04-Jun-2026,ATM WDL,1500.00,
+04-Jun-2026,UPI/DR/639480108509/QuickKart,999.00,
+05-Jun-2026,POS/SnackShack,340.00,
+09-Jun-2026,UPI/FuelPoint,120.00,
+11-Jun-2026,UPI/PowerGrid Bills,850.00,
+11-Jun-2026,UPI/REV/639480108509/QuickKart,,499.50
+13-Jun-2026,UPI/FuelPoint,60.00,
+14-Jun-2026,UPI/PowerGrid Bills,120.00,
+22-Jun-2026,NEFT CR SALARY ACME INFRA,,15000.00
+26-Jun-2026,POS/SnackShack,340.00,

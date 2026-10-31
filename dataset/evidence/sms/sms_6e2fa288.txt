@@ -1,0 +1,4 @@
+# SMS export for 9984886457
+15-07-26 17:46 | Rs.2,000.50 debited from A/c XX1124 to tickethub@pg Ref 611770628215. Not you? Call 1800-000-000 -Godavari Bank
+15-07-26 19:46 | Your txn Ref 611770628215 of Rs.2,000.50 failed. Amount if debited will be reversed within 3-5 working days -Godavari Bank
+16-07-26 17:46 | Refund of Rs.2,000.50 for Ref 611770628215 processed successfully -Godavari Bank

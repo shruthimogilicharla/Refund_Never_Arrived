@@ -1,0 +1,4 @@
+# SMS export for 9865946055
+09-06-26 21:46 | Rs.1,499.00 debited from A/c XX1047 to ananya41@konark Ref 624247646624. Not you? Call 1800-000-000 -Godavari Bank
+09-06-26 23:46 | Your txn Ref 624247646624 of Rs.1,499.00 failed. Amount if debited will be reversed within 3-5 working days -Godavari Bank
+10-06-26 21:46 | Refund of Rs.1,499.00 for Ref 624247646624 processed successfully -Godavari Bank

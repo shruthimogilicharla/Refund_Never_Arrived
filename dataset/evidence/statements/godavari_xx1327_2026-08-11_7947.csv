@@ -1,0 +1,6 @@
+# Godavari Bank e-statement XX1327,period 2026-08-01..2026-08-11,generated 2026-08-11T19:37:00+05:30
+txn_date,description,withdrawal,deposit
+04-Aug-2026,IMPS CR FAMILY,,15000.00
+06-Aug-2026,NEFT CR SALARY ACME INFRA,,15000.00
+09-Aug-2026,UPI/DR/613897731700/RideNow,1499.00,
+11-Aug-2026,IMPS CR FAMILY,,15000.00

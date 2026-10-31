@@ -1,0 +1,4 @@
+# SMS export for 9688283472
+15-08-26 11:07 | Rs.249.00 debited from A/c XX1286 to IFSC-DEMO000518 Ref 600875641312. Not you? Call 1800-000-000 -Godavari Bank
+15-08-26 13:07 | Your txn Ref 600875641312 of Rs.249.00 failed. Amount if debited will be reversed within 3-5 working days -Godavari Bank
+16-08-26 11:07 | Refund of Rs.249.00 for Ref 600875641312 processed successfully -Godavari Bank

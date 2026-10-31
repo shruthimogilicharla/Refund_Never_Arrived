@@ -1,0 +1,10 @@
+# Konark Bank e-statement XX1147,period 2026-07-29..2026-08-08,generated 2026-08-08T20:20:00+05:30
+txn_date,description,withdrawal,deposit
+30-Jul-2026,NEFT CR SALARY ACME INFRA,,25000.00
+31-Jul-2026,POS/SnackShack,500.00,
+02-Aug-2026,POS/SnackShack,850.00,
+03-Aug-2026,UPI/BookNest,340.00,
+04-Aug-2026,UPI/DR/655990116130/FreshBasket,1200.00,
+06-Aug-2026,UPI/FuelPoint,1500.00,
+06-Aug-2026,UPI/REV/611228835452/Suresh Gu,,1200.00
+07-Aug-2026,ATM WDL,850.00,

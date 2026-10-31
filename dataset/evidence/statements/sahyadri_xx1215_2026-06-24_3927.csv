@@ -1,0 +1,7 @@
+# Sahyadri Bank e-statement XX1215,period 2026-06-18..2026-06-24,generated 2026-06-24T19:59:00+05:30
+txn_date,description,withdrawal,deposit
+18-Jun-2026,IMPS CR FAMILY,,5000.00
+19-Jun-2026,NEFT CR SALARY ACME INFRA,,15000.00
+20-Jun-2026,UPI/PowerGrid Bills,120.00,
+22-Jun-2026,IMPS CR FAMILY,,5000.00
+24-Jun-2026,UPI/DR/692694655981/CareWell Pha,4999.00,

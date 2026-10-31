@@ -1,0 +1,4 @@
+# SMS export for 9143511593
+13-08-26 20:36 | Rs.1,499.00 debited from A/c XX1255 to swathi50@konark Ref 664894282003. Not you? Call 1800-000-000 -Deccan Co-op Bank
+13-08-26 22:36 | Your txn Ref 664894282003 of Rs.1,499.00 failed. Amount if debited will be reversed within 3-5 working days -Deccan Co-op Bank
+14-08-26 20:36 | Refund of Rs.1,499.00 for Ref 664894282003 processed successfully -Deccan Co-op Bank

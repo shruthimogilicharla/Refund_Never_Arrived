@@ -1,0 +1,6 @@
+# Sahyadri Bank e-statement XX1064,period 2026-07-01..2026-07-17,generated 2026-07-17T22:50:00+05:30
+txn_date,description,withdrawal,deposit
+03-Jul-2026,UPI/BookNest,850.00,
+04-Jul-2026,UPI/BookNest,120.00,
+10-Jul-2026,IMPS/DR/649236374260/Divya Naidu,499.00,
+11-Jul-2026,IMPS/REV/649236374260/Divya Naidu,,249.50

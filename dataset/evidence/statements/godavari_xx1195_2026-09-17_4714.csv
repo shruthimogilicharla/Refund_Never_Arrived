@@ -1,0 +1,14 @@
+# Godavari Bank e-statement XX1195,period 2026-08-28..2026-09-17,generated 2026-09-17T23:26:00+05:30
+txn_date,description,withdrawal,deposit
+28-Aug-2026,UPI/BookNest,60.00,
+01-Sep-2026,UPI/PowerGrid Bills,850.00,
+05-Sep-2026,UPI/BookNest,120.00,
+07-Sep-2026,IMPS/DR/630694237290/Keerthi Das,4999.00,
+07-Sep-2026,IMPS/REV/630694237290/Keerthi Das,,4999.00
+07-Sep-2026,UPI/PowerGrid Bills,1500.00,
+08-Sep-2026,UPI/PowerGrid Bills,120.00,
+10-Sep-2026,IMPS CR FAMILY,,25000.00
+11-Sep-2026,UPI/FuelPoint,1500.00,
+12-Sep-2026,POS/SnackShack,850.00,
+13-Sep-2026,NEFT CR SALARY ACME INFRA,,25000.00
+14-Sep-2026,NEFT CR SALARY ACME INFRA,,15000.00

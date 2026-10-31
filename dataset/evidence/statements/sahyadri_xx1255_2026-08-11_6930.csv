@@ -1,0 +1,9 @@
+# Sahyadri Bank e-statement XX1255,period 2026-08-01..2026-08-11,generated 2026-08-11T21:41:00+05:30
+txn_date,description,withdrawal,deposit
+02-Aug-2026,UPI/PowerGrid Bills,340.00,
+05-Aug-2026,ATM WDL,850.00,
+06-Aug-2026,UPI/BookNest,500.00,
+08-Aug-2026,UPI/FuelPoint,340.00,
+10-Aug-2026,NEFT CR SALARY ACME INFRA,,15000.00
+11-Aug-2026,ATM WDL,340.00,
+11-Aug-2026,UPI/DR/664585626492/FreshBasket,2000.00,

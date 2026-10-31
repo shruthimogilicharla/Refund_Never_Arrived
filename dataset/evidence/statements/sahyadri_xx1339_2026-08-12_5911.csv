@@ -1,0 +1,7 @@
+# Sahyadri Bank e-statement XX1339,period 2026-08-01..2026-08-12,generated 2026-08-12T23:56:00+05:30
+txn_date,description,withdrawal,deposit
+01-Aug-2026,UPI/BookNest,120.00,
+06-Aug-2026,NEFT CR SALARY ACME INFRA,,25000.00
+10-Aug-2026,POS/SnackShack,1500.00,
+10-Aug-2026,UPI/DR/647693838737/Manoj Goud,12000.50,
+11-Aug-2026,UPI/FuelPoint,120.00,

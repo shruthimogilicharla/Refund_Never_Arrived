@@ -1,0 +1,4 @@
+# SMS export for 9881813785
+14-08-26 21:18 | Rs.3,200.00 debited from A/c XX1070 to snackshack@pg Ref 681608615056. Not you? Call 1800-000-000 -Deccan Co-op Bank
+14-08-26 23:18 | Your txn Ref 681608615056 of Rs.3,200.00 failed. Amount if debited will be reversed within 3-5 working days -Deccan Co-op Bank
+15-08-26 21:18 | Refund of Rs.3,200.00 for Ref 681608615056 processed successfully -Deccan Co-op Bank

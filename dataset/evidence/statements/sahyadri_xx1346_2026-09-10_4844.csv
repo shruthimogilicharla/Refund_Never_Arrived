@@ -1,0 +1,17 @@
+# Sahyadri Bank e-statement XX1346,period 2026-08-02..2026-09-10,generated 2026-09-10T19:24:00+05:30
+txn_date,description,withdrawal,deposit
+05-Aug-2026,UPI/PowerGrid Bills,60.00,
+10-Aug-2026,IMPS/DR/685806764216/Harika Pilla,249.00,
+11-Aug-2026,REV-764216 IMPS CR,,249.00
+11-Aug-2026,UPI/FuelPoint,60.00,
+15-Aug-2026,POS/SnackShack,60.00,
+23-Aug-2026,NEFT CR SALARY ACME INFRA,,15000.00
+25-Aug-2026,UPI/BookNest,60.00,
+26-Aug-2026,UPI/PowerGrid Bills,120.00,
+27-Aug-2026,UPI/BookNest,850.00,
+29-Aug-2026,ATM WDL,340.00,
+31-Aug-2026,UPI/PowerGrid Bills,500.00,
+03-Sep-2026,UPI/FuelPoint,340.00,
+06-Sep-2026,ATM WDL,1500.00,
+08-Sep-2026,UPI/PowerGrid Bills,60.00,
+09-Sep-2026,ATM WDL,120.00,

@@ -1,0 +1,18 @@
+# Deccan Co-op Bank e-statement XX1358,period 2026-08-21..2026-10-03,generated 2026-10-03T09:22:00+05:30
+txn_date,description,withdrawal,deposit
+23-Aug-2026,NEFT CR SALARY ACME INFRA,,5000.00
+27-Aug-2026,REV-447074 UPI CR,,1920.30
+27-Aug-2026,UPI/DR/679502447074/Aarav Menon,3200.50,
+28-Aug-2026,UPI/PowerGrid Bills,500.00,
+30-Aug-2026,POS/SnackShack,60.00,
+31-Aug-2026,UPI/REV/679502447074/Aarav Menon,,1280.20
+05-Sep-2026,POS/SnackShack,500.00,
+07-Sep-2026,IMPS CR FAMILY,,15000.00
+11-Sep-2026,UPI/PowerGrid Bills,120.00,
+13-Sep-2026,UPI/FuelPoint,340.00,
+16-Sep-2026,POS/SnackShack,120.00,
+20-Sep-2026,IMPS CR FAMILY,,5000.00
+21-Sep-2026,UPI/BookNest,1500.00,
+24-Sep-2026,POS/SnackShack,340.00,
+27-Sep-2026,UPI/PowerGrid Bills,500.00,
+01-Oct-2026,POS/SnackShack,60.00,

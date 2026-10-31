@@ -1,0 +1,12 @@
+# Sahyadri Bank e-statement XX1264,period 2026-08-16..2026-09-14,generated 2026-09-14T21:16:00+05:30
+txn_date,description,withdrawal,deposit
+20-Aug-2026,IMPS/DR/686438417550/Ravi Shetty,1499.00,
+20-Aug-2026,NEFT CR SALARY ACME INFRA,,5000.00
+23-Aug-2026,UPI/FuelPoint,500.00,
+24-Aug-2026,UPI/FuelPoint,60.00,
+27-Aug-2026,UPI/PowerGrid Bills,340.00,
+29-Aug-2026,UPI/PowerGrid Bills,500.00,
+01-Sep-2026,POS/SnackShack,1500.00,
+02-Sep-2026,IMPS CR FAMILY,,15000.00
+10-Sep-2026,UPI/BookNest,1500.00,
+14-Sep-2026,UPI/PowerGrid Bills,1500.00,

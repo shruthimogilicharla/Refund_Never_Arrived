@@ -1,0 +1,21 @@
+# Godavari Bank e-statement XX1026,period 2026-06-03..2026-07-14,generated 2026-07-14T21:21:00+05:30
+txn_date,description,withdrawal,deposit
+03-Jun-2026,UPI/FuelPoint,500.00,
+06-Jun-2026,UPI/PowerGrid Bills,120.00,
+09-Jun-2026,ATM WDL,850.00,
+09-Jun-2026,UPI/DR/608970023962/BookNest,2000.00,
+13-Jun-2026,UPI/PowerGrid Bills,340.00,
+14-Jun-2026,ATM WDL,850.00,
+15-Jun-2026,UPI/PowerGrid Bills,1500.00,
+16-Jun-2026,UPI/PowerGrid Bills,500.00,
+18-Jun-2026,UPI/PowerGrid Bills,120.00,
+21-Jun-2026,POS/SnackShack,60.00,
+24-Jun-2026,ATM WDL,1500.00,
+26-Jun-2026,POS/SnackShack,120.00,
+29-Jun-2026,UPI/FuelPoint,850.00,
+30-Jun-2026,UPI/BookNest,120.00,
+01-Jul-2026,POS/SnackShack,120.00,
+04-Jul-2026,NEFT CR SALARY ACME INFRA,,15000.00
+08-Jul-2026,ATM WDL,850.00,
+12-Jul-2026,UPI/BookNest,60.00,
+13-Jul-2026,IMPS CR FAMILY,,25000.00

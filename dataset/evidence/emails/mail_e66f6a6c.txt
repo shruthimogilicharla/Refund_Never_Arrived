@@ -1,0 +1,9 @@
+From: support@booknest.test
+Subject: Refund processed for order ORD699787
+
+Hi,
+
+Your payment of Rs 2,000.50 for order ORD699787 could not be completed.
+We have processed a refund (UPI Ref 672332562479). It will reflect in your account in 5-7 working days.
+
+Team BookNest

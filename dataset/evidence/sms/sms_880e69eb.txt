@@ -1,0 +1,4 @@
+# SMS export for 9894298733
+22-08-26 15:00 | Rs.150.00 debited from A/c XX1108 to carewellpharmacy@pg Ref 653840516092. Not you? Call 1800-000-000 -Sahyadri Bank
+22-08-26 17:00 | Your txn Ref 653840516092 of Rs.150.00 failed. Amount if debited will be reversed within 3-5 working days -Sahyadri Bank
+23-08-26 15:00 | Refund of Rs.150.00 for Ref 653840516092 processed successfully -Sahyadri Bank

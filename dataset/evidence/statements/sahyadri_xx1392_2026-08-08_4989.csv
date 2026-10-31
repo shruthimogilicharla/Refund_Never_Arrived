@@ -1,0 +1,5 @@
+# Sahyadri Bank e-statement XX1392,period 2026-08-02..2026-08-08,generated 2026-08-08T22:21:00+05:30
+txn_date,description,withdrawal,deposit
+03-Aug-2026,NEFT CR SALARY ACME INFRA,,25000.00
+04-Aug-2026,POS/SnackShack,1500.00,
+06-Aug-2026,UPI/DR/657844648758/Pooja Kumar,249.00,

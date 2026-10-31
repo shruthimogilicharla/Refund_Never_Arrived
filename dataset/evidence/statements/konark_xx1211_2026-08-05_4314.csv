@@ -1,0 +1,9 @@
+# Konark Bank e-statement XX1211,period 2026-07-21..2026-08-05,generated 2026-08-05T21:00:00+05:30
+txn_date,description,withdrawal,deposit
+21-Jul-2026,IMPS CR FAMILY,,5000.00
+25-Jul-2026,UPI/DR/647980429763/FreshBasket,750.00,
+26-Jul-2026,UPI/PowerGrid Bills,500.00,
+01-Aug-2026,ATM WDL,1500.00,
+02-Aug-2026,NEFT CR SALARY ACME INFRA,,15000.00
+04-Aug-2026,UPI/PowerGrid Bills,60.00,
+05-Aug-2026,ATM WDL,120.00,

@@ -1,0 +1,15 @@
+# Sahyadri Bank e-statement XX1178,period 2026-06-02..2026-07-06,generated 2026-07-06T15:55:00+05:30
+txn_date,description,withdrawal,deposit
+02-Jun-2026,IMPS CR FAMILY,,25000.00
+05-Jun-2026,IMPS/DR/628506938846/Keerthi Shet,4999.00,
+05-Jun-2026,POS/SnackShack,1500.00,
+05-Jun-2026,REV-938846 IMPS CR,,4999.00
+07-Jun-2026,UPI/BookNest,850.00,
+08-Jun-2026,UPI/PowerGrid Bills,850.00,
+10-Jun-2026,UPI/PowerGrid Bills,60.00,
+13-Jun-2026,POS/SnackShack,120.00,
+16-Jun-2026,POS/SnackShack,850.00,
+26-Jun-2026,POS/SnackShack,60.00,
+28-Jun-2026,UPI/BookNest,60.00,
+29-Jun-2026,UPI/PowerGrid Bills,120.00,
+02-Jul-2026,UPI/FuelPoint,500.00,

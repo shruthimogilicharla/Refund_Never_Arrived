@@ -1,0 +1,4 @@
+# SMS export for 9483670887
+21-07-26 12:59 | Rs.12,000.50 debited from A/c XX1257 to hema1@godavari Ref 615066567516. Not you? Call 1800-000-000 -Deccan Co-op Bank
+21-07-26 14:59 | Your txn Ref 615066567516 of Rs.12,000.50 failed. Amount if debited will be reversed within 3-5 working days -Deccan Co-op Bank
+22-07-26 12:59 | Refund of Rs.12,000.50 for Ref 615066567516 processed successfully -Deccan Co-op Bank

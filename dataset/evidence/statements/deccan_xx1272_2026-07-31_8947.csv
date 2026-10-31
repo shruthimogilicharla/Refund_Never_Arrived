@@ -1,0 +1,6 @@
+# Deccan Co-op Bank e-statement XX1272,period 2026-07-25..2026-07-31,generated 2026-07-31T22:58:00+05:30
+txn_date,description,withdrawal,deposit
+25-Jul-2026,IMPS CR FAMILY,,5000.00
+26-Jul-2026,UPI/BookNest,120.00,
+31-Jul-2026,REFUND/BOOKNEST/ORD699787,,2000.50
+31-Jul-2026,UPI/DR/672332562479/BookNest,2000.50,

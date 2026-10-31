@@ -1,0 +1,9 @@
+From: support@tickethub.test
+Subject: Refund processed for order ORD374172
+
+Hi,
+
+Your payment of Rs 249.50 for order ORD374172 could not be completed.
+We have processed a refund (UPI Ref 610021686016). It will reflect in your account in 5-7 working days.
+
+Team TicketHub

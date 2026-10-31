@@ -1,0 +1,23 @@
+# Konark Bank e-statement XX1036,period 2026-08-30..2026-10-24,generated 2026-10-24T23:31:00+05:30
+txn_date,description,withdrawal,deposit
+05-Sep-2026,IMPS CR FAMILY,,15000.00
+09-Sep-2026,UPI/DR/615860986328/PowerGrid Bi,1200.00,
+10-Sep-2026,REV-986328 UPI CR,,1200.00
+12-Sep-2026,UPI/PowerGrid Bills,340.00,
+13-Sep-2026,UPI/FuelPoint,120.00,
+15-Sep-2026,ATM WDL,1500.00,
+18-Sep-2026,POS/SnackShack,850.00,
+22-Sep-2026,UPI/PowerGrid Bills,850.00,
+24-Sep-2026,UPI/PowerGrid Bills,120.00,
+28-Sep-2026,UPI/PowerGrid Bills,500.00,
+30-Sep-2026,NEFT CR SALARY ACME INFRA,,25000.00
+03-Oct-2026,POS/SnackShack,60.00,
+05-Oct-2026,ATM WDL,850.00,
+09-Oct-2026,UPI/PowerGrid Bills,850.00,
+11-Oct-2026,ATM WDL,60.00,
+13-Oct-2026,NEFT CR SALARY ACME INFRA,,25000.00
+14-Oct-2026,POS/SnackShack,500.00,
+15-Oct-2026,UPI/BookNest,120.00,
+18-Oct-2026,POS/SnackShack,60.00,
+22-Oct-2026,UPI/PowerGrid Bills,340.00,
+23-Oct-2026,UPI/BookNest,60.00,

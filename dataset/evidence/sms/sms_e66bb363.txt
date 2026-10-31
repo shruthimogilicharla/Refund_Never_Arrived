@@ -1,0 +1,4 @@
+# SMS export for 9470675548
+17-08-26 16:21 | Rs.1,499.00 debited from A/c XX1160 to divya50@godavari Ref 669563213206. Not you? Call 1800-000-000 -Sahyadri Bank
+17-08-26 18:21 | Your txn Ref 669563213206 of Rs.1,499.00 failed. Amount if debited will be reversed within 3-5 working days -Sahyadri Bank
+18-08-26 16:21 | Refund of Rs.1,499.00 for Ref 669563213206 processed successfully -Sahyadri Bank

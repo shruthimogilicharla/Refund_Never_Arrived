@@ -1,0 +1,12 @@
+# Deccan Co-op Bank e-statement XX1141,period 2026-08-29..2026-09-10,generated 2026-09-10T22:47:00+05:30
+txn_date,description,withdrawal,deposit
+29-Aug-2026,ATM WDL,60.00,
+30-Aug-2026,POS/SnackShack,120.00,
+31-Aug-2026,UPI/FuelPoint,120.00,
+02-Sep-2026,ATM WDL,1500.00,
+03-Sep-2026,POS/SnackShack,120.00,
+04-Sep-2026,NEFT CR SALARY ACME INFRA,,25000.00
+05-Sep-2026,UPI/BookNest,340.00,
+06-Sep-2026,UPI/PowerGrid Bills,60.00,
+08-Sep-2026,UPI/DR/604417457391/TicketHub,499.50,
+10-Sep-2026,POS/SnackShack,60.00,

@@ -1,0 +1,8 @@
+# Sahyadri Bank e-statement XX1262,period 2026-07-09..2026-07-20,generated 2026-07-20T23:10:00+05:30
+txn_date,description,withdrawal,deposit
+10-Jul-2026,POS/SnackShack,120.00,
+14-Jul-2026,POS/SnackShack,850.00,
+15-Jul-2026,UPI/FuelPoint,500.00,
+18-Jul-2026,UPI/DR/671887768139/CareWell Pha,12000.00,
+20-Jul-2026,NEFT CR SALARY ACME INFRA,,5000.00
+20-Jul-2026,REFUND/CAREWELL PHARMACY/ORD281599,,12000.00

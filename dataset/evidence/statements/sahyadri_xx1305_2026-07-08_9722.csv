@@ -1,0 +1,7 @@
+# Sahyadri Bank e-statement XX1305,period 2026-06-28..2026-07-08,generated 2026-07-08T21:30:00+05:30
+txn_date,description,withdrawal,deposit
+03-Jul-2026,IMPS CR FAMILY,,5000.00
+05-Jul-2026,POS/SnackShack,1500.00,
+06-Jul-2026,UPI/BookNest,340.00,
+08-Jul-2026,POS/SnackShack,340.00,
+08-Jul-2026,UPI/DR/649115998714/Ravi Joshi,499.50,

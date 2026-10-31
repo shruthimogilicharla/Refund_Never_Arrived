@@ -1,0 +1,24 @@
+# Sahyadri Bank e-statement XX1061,period 2026-08-14..2026-10-14,generated 2026-10-14T23:42:00+05:30
+txn_date,description,withdrawal,deposit
+14-Aug-2026,UPI/BookNest,1500.00,
+17-Aug-2026,ATM WDL,1500.00,
+18-Aug-2026,NEFT CR SALARY ACME INFRA,,25000.00
+20-Aug-2026,IMPS/DR/679395348260/Meera Menon,3200.00,
+20-Aug-2026,UPI/FuelPoint,60.00,
+23-Aug-2026,UPI/PowerGrid Bills,850.00,
+27-Aug-2026,IMPS CR FAMILY,,25000.00
+31-Aug-2026,UPI/PowerGrid Bills,850.00,
+05-Sep-2026,POS/SnackShack,340.00,
+06-Sep-2026,ATM WDL,850.00,
+07-Sep-2026,ATM WDL,340.00,
+09-Sep-2026,POS/SnackShack,1500.00,
+13-Sep-2026,ATM WDL,1500.00,
+14-Sep-2026,UPI/FuelPoint,120.00,
+17-Sep-2026,UPI/FuelPoint,850.00,
+23-Sep-2026,UPI/FuelPoint,500.00,
+28-Sep-2026,UPI/FuelPoint,850.00,
+30-Sep-2026,UPI/PowerGrid Bills,1500.00,
+04-Oct-2026,UPI/PowerGrid Bills,1500.00,
+06-Oct-2026,UPI/PowerGrid Bills,850.00,
+07-Oct-2026,ATM WDL,850.00,
+08-Oct-2026,ATM WDL,1500.00,

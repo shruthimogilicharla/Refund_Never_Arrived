@@ -1,0 +1,4 @@
+# SMS export for 9099379749
+05-06-26 18:36 | Rs.1,200.00 debited from A/c XX1192 to rohan55@sahyadri Ref 633572934101. Not you? Call 1800-000-000 -Deccan Co-op Bank
+05-06-26 20:36 | Your txn Ref 633572934101 of Rs.1,200.00 failed. Amount if debited will be reversed within 3-5 working days -Deccan Co-op Bank
+06-06-26 18:36 | Refund of Rs.1,200.00 for Ref 633572934101 processed successfully -Deccan Co-op Bank

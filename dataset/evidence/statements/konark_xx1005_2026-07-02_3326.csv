@@ -1,0 +1,6 @@
+# Konark Bank e-statement XX1005,period 2026-06-24..2026-07-02,generated 2026-07-02T21:49:00+05:30
+txn_date,description,withdrawal,deposit
+26-Jun-2026,POS/SnackShack,850.00,
+27-Jun-2026,IMPS/DR/660196215707/Priya Das,499.00,
+27-Jun-2026,POS/SnackShack,60.00,
+29-Jun-2026,NEFT CR SALARY ACME INFRA,,15000.00

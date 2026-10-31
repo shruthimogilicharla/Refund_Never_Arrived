@@ -1,0 +1,7 @@
+# Sahyadri Bank e-statement XX1003,period 2026-08-30..2026-09-13,generated 2026-09-13T22:16:00+05:30
+txn_date,description,withdrawal,deposit
+02-Sep-2026,REV-163636 UPI CR,,1499.50
+02-Sep-2026,UPI/DR/629840163636/Lakshmi Redd,1499.50,
+03-Sep-2026,UPI/BookNest,340.00,
+11-Sep-2026,UPI/FuelPoint,340.00,
+13-Sep-2026,ATM WDL,60.00,

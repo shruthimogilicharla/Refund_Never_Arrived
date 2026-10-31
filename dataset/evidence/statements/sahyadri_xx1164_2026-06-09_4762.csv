@@ -1,0 +1,5 @@
+# Sahyadri Bank e-statement XX1164,period 2026-06-04..2026-06-09,generated 2026-06-09T21:55:00+05:30
+txn_date,description,withdrawal,deposit
+04-Jun-2026,NEFT CR SALARY ACME INFRA,,15000.00
+08-Jun-2026,UPI/DR/657540840470/Manoj Varma,249.00,
+09-Jun-2026,ATM WDL,500.00,

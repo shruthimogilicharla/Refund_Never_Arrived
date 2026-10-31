@@ -1,0 +1,9 @@
+# Konark Bank e-statement XX1114,period 2026-06-29..2026-07-15,generated 2026-07-15T20:42:00+05:30
+txn_date,description,withdrawal,deposit
+02-Jul-2026,NEFT CR SALARY ACME INFRA,,5000.00
+06-Jul-2026,POS/SnackShack,60.00,
+08-Jul-2026,IMPS/DR/609255370240/Suresh Pilla,1200.00,
+08-Jul-2026,UPI/PowerGrid Bills,340.00,
+11-Jul-2026,POS/SnackShack,850.00,
+13-Jul-2026,NEFT CR SALARY ACME INFRA,,25000.00
+15-Jul-2026,IMPS CR FAMILY,,25000.00

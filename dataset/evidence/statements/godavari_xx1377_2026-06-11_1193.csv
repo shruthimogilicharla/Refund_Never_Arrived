@@ -1,0 +1,13 @@
+# Godavari Bank e-statement XX1377,period 2026-05-25..2026-06-11,generated 2026-06-11T19:24:00+05:30
+txn_date,description,withdrawal,deposit
+27-May-2026,POS/SnackShack,1500.00,
+28-May-2026,UPI/FuelPoint,60.00,
+29-May-2026,UPI/FuelPoint,850.00,
+30-May-2026,UPI/BookNest,120.00,
+31-May-2026,UPI/BookNest,500.00,
+02-Jun-2026,UPI/DR/695679111290/Bhavana Naid,999.00,
+02-Jun-2026,UPI/PowerGrid Bills,120.00,
+02-Jun-2026,UPI/REV/695679111290/Bhavana Naid,,499.50
+03-Jun-2026,NEFT CR SALARY ACME INFRA,,25000.00
+08-Jun-2026,IMPS CR FAMILY,,15000.00
+10-Jun-2026,NEFT CR SALARY ACME INFRA,,15000.00

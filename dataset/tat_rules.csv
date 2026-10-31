@@ -1,0 +1,6 @@
+rule_id,payment_system,incident,tat_days,compensation_inr_per_day,applies_to
+TAT-UPI-P2P,UPI,"Account debited, beneficiary not credited (person to person)",1,100,UPI_P2P
+TAT-UPI-MER,UPI,"Account debited, merchant did not receive confirmation",5,100,UPI_MERCHANT
+TAT-IMPS,IMPS,"Account debited, beneficiary not credited",1,100,IMPS
+TAT-ATM,ATM,"Account debited, cash not dispensed",5,100,ATM
+TAT-CARD-CNP,Card,"Card not present, merchant did not receive confirmation",5,100,CARD_CNP

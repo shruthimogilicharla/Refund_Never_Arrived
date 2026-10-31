@@ -1,0 +1,4 @@
+# SMS export for 9539210254
+20-07-26 17:44 | Rs.12,000.00 debited from A/c XX1292 to quickkart@pg Ref 671635989586. Not you? Call 1800-000-000 -Konark Bank
+20-07-26 19:44 | Your txn Ref 671635989586 of Rs.12,000.00 failed. Amount if debited will be reversed within 3-5 working days -Konark Bank
+21-07-26 17:44 | Refund of Rs.12,000.00 for Ref 671635989586 processed successfully -Konark Bank

@@ -1,0 +1,25 @@
+complaint_id,received_at,channel,contact,complaint_text,audit_at
+S001,2026-07-22T16:13:00+05:30,email,arjun.menon97@mailbox.test,"I paid Rs 499 to CareWell Pharmacy on 18 Jul. Transaction failed, amount deducted, no refund yet.",2026-08-29T18:13:00+05:30
+S002,2026-08-11T19:57:00+05:30,mobile,9845263097,I sent money Rs 1499 to Teja Varma on 03 Aug. Bank says refund done but I don't see it.,2026-09-16T23:57:00+05:30
+S003,2026-07-17T16:59:00+05:30,email,diya.old40@mailbox.test,I did an IMPS transfer Rs 2000 to Kiran Chowdary on 15 Jul. Payment failed. Where is my money? Ref no 659042051919.,2026-08-14T16:59:00+05:30
+S004,2026-07-20T16:53:00+05:30,email,bhavana.varma36@mailbox.test,"I did an IMPS transfer Rs 12000 to Kiran Das on 12 Jul. Transaction failed, amount deducted, no refund yet.",2026-08-21T17:53:00+05:30
+S005,2026-06-12T09:16:00+05:30,email,kiran.goud40@mailbox.test,I sent money Rs 7500 to Akhil Sharma on 03 Jun. It failed but money was debited.,2026-06-24T13:16:00+05:30
+S006,2026-07-21T16:35:00+05:30,mobile,9770913175,I paid Rs 999 to QuickKart on 14 Jul. Payment failed. Where is my money?,2026-08-09T17:35:00+05:30
+S007,2026-07-14T16:14:00+05:30,mobile,9674714732,I did an IMPS transfer Rs 1200 to Suresh Pillai on 08 Jul. Payment failed. Where is my money?,2026-08-01T16:14:00+05:30
+S008,2026-08-11T09:09:00+05:30,mobile,9417075364,"I sent money Rs 999 to Rahul Menon on 10 Aug. I tried twice because the first one showed failed. One went through, the other money is stuck.",2026-09-06T10:09:00+05:30
+S009,2026-09-09T10:28:00+05:30,mobile,9370271861,I sent money Rs 2500 to Swathi Joshi on 30 Aug. App showed failed but money got cut. Please refund.,2026-09-28T14:28:00+05:30
+S010,2026-08-01T11:11:00+05:30,mobile,9799065939,"I paid Rs 1499 to StyleLane on 18 Jul. Transaction failed, amount deducted, no refund yet.",2026-08-16T12:11:00+05:30
+S011,2026-07-14T16:22:00+05:30,mobile,9865946055,Can you tell me the interest rate on fixed deposits for 1 year?,2026-07-26T18:22:00+05:30
+S012,2026-09-17T15:39:00+05:30,mobile,9993215711,I did an IMPS transfer Rs 4999 to Keerthi Das on 07 Sep. It failed but money was debited. Ref no 630694237290.,2026-10-03T19:39:00+05:30
+S013,2026-07-03T18:48:00+05:30,mobile,9252042651,I paid Rs 2000 to SnackShack on 02 Jul. It failed but money was debited.,2026-07-27T22:48:00+05:30
+S014,2026-08-08T19:36:00+05:30,mobile,9456078745,I sent money Rs 4999.5 to Meera Goud on 06 Aug. Bank says refund done but I don't see it. Ref no 690022009874.,2026-09-16T19:36:00+05:30
+S015,2026-08-25T18:22:00+05:30,mobile,9659085380,I paid Rs 999 to FreshBasket on 10 Aug. Payment failed. Where is my money? Ref no 677626234641.,2026-10-08T20:22:00+05:30
+S016,2026-08-23T11:11:00+05:30,email,teja.old6@mailbox.test,"I paid Rs 2000 to FreshBasket on 12 Aug. Transaction failed, amount deducted, no refund yet.",2026-09-27T12:11:00+05:30
+S017,2026-08-05T14:44:00+05:30,mobile,9584441930,I did an IMPS transfer Rs 999 to Arjun Kumar on 22 Jul. Payment failed. Where is my money? Ref no 666513834677.,2026-08-15T15:44:00+05:30
+S018,2026-09-02T13:40:00+05:30,email,rohan.gupta16@mailbox.test,I sent money Rs 999.5 to Keerthi Das on 31 Aug. It failed but money was debited. Ref no 614373492598.,2026-09-16T15:40:00+05:30
+S019,2026-07-18T18:12:00+05:30,mobile,9884791889,"I sent money Rs 7500 to Swathi Menon on 08 Jul. I tried twice because the first one showed failed. One went through, the other money is stuck.",2026-07-29T21:12:00+05:30
+S020,2026-09-20T16:40:00+05:30,email,ravi.shetty52@mailbox.test,I sent money Rs 999 to Navya Joshi on 06 Sep. App showed failed but money got cut. Please refund.,2026-10-29T20:40:00+05:30
+S021,2026-08-27T09:04:00+05:30,mobile,9343817216,I paid Rs 150 to QuickKart on 16 Aug. It failed but money was debited. Ref no 614871888755.,2026-10-02T09:04:00+05:30
+S022,2026-07-14T09:26:00+05:30,mobile,9074899197,I want to order a new cheque book for my savings account.,2026-08-24T11:26:00+05:30
+S023,2026-08-12T13:34:00+05:30,mobile,9387303752,I sent money Rs 4999.5 to Hema Varma on 09 Aug. It failed but money was debited. Ref no 682228910289.,2026-09-11T17:34:00+05:30
+S024,2026-07-08T18:56:00+05:30,mobile,9461807567,I paid Rs 1499 to FuelPoint on 25 Jun. Bank says refund done but I don't see it. Ref no 636124132030.,2026-07-17T22:56:00+05:30

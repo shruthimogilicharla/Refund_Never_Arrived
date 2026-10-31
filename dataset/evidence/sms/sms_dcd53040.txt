@@ -1,0 +1,4 @@
+# SMS export for 9384535577
+23-06-26 18:50 | Rs.2,000.50 debited from A/c XX1280 to freshbasket@pg Ref 639657031482. Not you? Call 1800-000-000 -Deccan Co-op Bank
+23-06-26 20:50 | Your txn Ref 639657031482 of Rs.2,000.50 failed. Amount if debited will be reversed within 3-5 working days -Deccan Co-op Bank
+24-06-26 18:50 | Refund of Rs.2,000.50 for Ref 639657031482 processed successfully -Deccan Co-op Bank

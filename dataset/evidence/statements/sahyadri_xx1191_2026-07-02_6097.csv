@@ -1,0 +1,7 @@
+# Sahyadri Bank e-statement XX1191,period 2026-06-20..2026-07-02,generated 2026-07-02T22:37:00+05:30
+txn_date,description,withdrawal,deposit
+25-Jun-2026,UPI/FuelPoint,1500.00,
+27-Jun-2026,UPI/BookNest,500.00,
+27-Jun-2026,UPI/DR/676726316675/Ananya Reddy,2000.00,
+28-Jun-2026,UPI/REV/676726316675/Ananya Reddy,,2000.00
+29-Jun-2026,POS/SnackShack,340.00,

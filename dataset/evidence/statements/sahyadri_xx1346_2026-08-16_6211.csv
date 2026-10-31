@@ -1,0 +1,9 @@
+# Sahyadri Bank e-statement XX1346,period 2026-07-20..2026-08-16,generated 2026-08-16T19:30:00+05:30
+txn_date,description,withdrawal,deposit
+25-Jul-2026,UPI/DR/659417832970/PowerGrid Bi,1200.50,
+26-Jul-2026,UPI/REV/659417832970/PowerGrid Bi,,1200.50
+02-Aug-2026,POS/SnackShack,60.00,
+04-Aug-2026,ATM WDL,60.00,
+10-Aug-2026,IMPS CR FAMILY,,5000.00
+13-Aug-2026,UPI/FuelPoint,120.00,
+16-Aug-2026,IMPS CR FAMILY,,5000.00

@@ -1,0 +1,8 @@
+# Sahyadri Bank e-statement XX1108,period 2026-08-15..2026-09-01,generated 2026-09-01T20:52:00+05:30
+txn_date,description,withdrawal,deposit
+16-Aug-2026,IMPS CR FAMILY,,5000.00
+17-Aug-2026,UPI/BookNest,500.00,
+18-Aug-2026,IMPS CR FAMILY,,25000.00
+20-Aug-2026,UPI/BookNest,850.00,
+22-Aug-2026,UPI/DR/653840516092/CareWell Pha,150.00,
+30-Aug-2026,UPI/BookNest,500.00,

@@ -1,0 +1,15 @@
+# Deccan Co-op Bank e-statement XX1123,period 2026-08-13..2026-09-17,generated 2026-09-17T21:18:00+05:30
+txn_date,description,withdrawal,deposit
+18-Aug-2026,UPI/FuelPoint,60.00,
+22-Aug-2026,UPI/PowerGrid Bills,120.00,
+23-Aug-2026,REV-294089 UPI CR,,1200.00
+23-Aug-2026,UPI/DR/656853294089/Keerthi Kuma,1200.00,
+24-Aug-2026,UPI/PowerGrid Bills,1500.00,
+26-Aug-2026,UPI/FuelPoint,850.00,
+27-Aug-2026,POS/SnackShack,1500.00,
+02-Sep-2026,NEFT CR SALARY ACME INFRA,,25000.00
+04-Sep-2026,UPI/FuelPoint,850.00,
+06-Sep-2026,UPI/FuelPoint,340.00,
+11-Sep-2026,ATM WDL,850.00,
+14-Sep-2026,UPI/FuelPoint,850.00,
+17-Sep-2026,NEFT CR SALARY ACME INFRA,,25000.00

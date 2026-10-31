@@ -1,0 +1,4 @@
+# SMS export for 9669716973
+22-08-26 21:34 | Rs.1,499.00 debited from A/c XX1036 to carewellpharmacy@pg Ref 616411039981. Not you? Call 1800-000-000 -Konark Bank
+22-08-26 23:34 | Your txn Ref 616411039981 of Rs.1,499.00 failed. Amount if debited will be reversed within 3-5 working days -Konark Bank
+23-08-26 21:34 | Refund of Rs.1,499.00 for Ref 616411039981 processed successfully -Konark Bank

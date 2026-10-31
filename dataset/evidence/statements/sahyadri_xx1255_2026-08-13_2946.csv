@@ -1,0 +1,7 @@
+# Sahyadri Bank e-statement XX1255,period 2026-08-03..2026-08-13,generated 2026-08-13T21:25:00+05:30
+txn_date,description,withdrawal,deposit
+03-Aug-2026,ATM WDL,500.00,
+04-Aug-2026,UPI/FuelPoint,1500.00,
+09-Aug-2026,IMPS CR FAMILY,,15000.00
+11-Aug-2026,UPI/DR/668057767727/Navya Pillai,7500.50,
+13-Aug-2026,ATM WDL,340.00,

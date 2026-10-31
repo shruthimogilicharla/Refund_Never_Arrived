@@ -1,0 +1,9 @@
+From: support@quickkart.test
+Subject: Refund processed for order ORD155532
+
+Hi,
+
+Your payment of Rs 999.00 for order ORD155532 could not be completed.
+We have processed a refund (UPI Ref 639480108509). It will reflect in your account in 5-7 working days.
+
+Team QuickKart

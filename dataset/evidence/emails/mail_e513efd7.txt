@@ -1,0 +1,9 @@
+From: support@carewellpharmacy.test
+Subject: Refund processed for order ORD213517
+
+Hi,
+
+Your payment of Rs 4,999.00 for order ORD213517 could not be completed.
+We have processed a refund (UPI Ref 648906033100). It will reflect in your account in 5-7 working days.
+
+Team CareWell Pharmacy

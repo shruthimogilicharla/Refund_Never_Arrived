@@ -1,0 +1,4 @@
+# SMS export for 9056433387
+08-08-26 16:54 | Rs.2,000.00 debited from A/c XX1344 to ridenow@pg Ref 674705149549. Not you? Call 1800-000-000 -Konark Bank
+08-08-26 18:54 | Your txn Ref 674705149549 of Rs.2,000.00 failed. Amount if debited will be reversed within 3-5 working days -Konark Bank
+09-08-26 16:54 | Refund of Rs.2,000.00 for Ref 674705149549 processed successfully -Konark Bank

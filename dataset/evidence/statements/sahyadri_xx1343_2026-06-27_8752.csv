@@ -1,0 +1,9 @@
+# Sahyadri Bank e-statement XX1343,period 2026-06-18..2026-06-27,generated 2026-06-27T23:10:00+05:30
+txn_date,description,withdrawal,deposit
+18-Jun-2026,ATM WDL,340.00,
+20-Jun-2026,UPI/FuelPoint,340.00,
+21-Jun-2026,UPI/DR/614921545919/Harika Chowd,1200.00,
+21-Jun-2026,UPI/REV/614921545919/Harika Chowd,,360.00
+24-Jun-2026,REV-545919 UPI CR,,840.00
+25-Jun-2026,UPI/PowerGrid Bills,120.00,
+27-Jun-2026,UPI/PowerGrid Bills,340.00,

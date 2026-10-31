@@ -1,0 +1,4 @@
+# SMS export for 9370412143
+22-08-26 13:47 | Rs.3,200.50 debited from A/c XX1003 to ananya6@konark Ref 603387029843. Not you? Call 1800-000-000 -Sahyadri Bank
+22-08-26 15:47 | Your txn Ref 603387029843 of Rs.3,200.50 failed. Amount if debited will be reversed within 3-5 working days -Sahyadri Bank
+23-08-26 13:47 | Refund of Rs.3,200.50 for Ref 603387029843 processed successfully -Sahyadri Bank

@@ -1,0 +1,21 @@
+# Deccan Co-op Bank e-statement XX1044,period 2026-08-22..2026-10-04,generated 2026-10-04T22:31:00+05:30
+txn_date,description,withdrawal,deposit
+22-Aug-2026,UPI/FuelPoint,340.00,
+24-Aug-2026,IMPS CR FAMILY,,25000.00
+26-Aug-2026,ATM WDL,340.00,
+27-Aug-2026,UPI/PowerGrid Bills,1500.00,
+30-Aug-2026,UPI/DR/611971413125/Varun Sharma,3200.00,
+01-Sep-2026,UPI/REV/611971413125/Varun Sharma,,800.00
+03-Sep-2026,IMPS CR FAMILY,,5000.00
+05-Sep-2026,UPI/BookNest,60.00,
+11-Sep-2026,UPI/BookNest,120.00,
+12-Sep-2026,NEFT CR SALARY ACME INFRA,,5000.00
+14-Sep-2026,UPI/PowerGrid Bills,500.00,
+19-Sep-2026,ATM WDL,340.00,
+20-Sep-2026,UPI/PowerGrid Bills,500.00,
+21-Sep-2026,POS/SnackShack,60.00,
+22-Sep-2026,UPI/PowerGrid Bills,60.00,
+23-Sep-2026,NEFT CR SALARY ACME INFRA,,15000.00
+26-Sep-2026,UPI/PowerGrid Bills,340.00,
+28-Sep-2026,UPI/PowerGrid Bills,120.00,
+02-Oct-2026,UPI/FuelPoint,500.00,

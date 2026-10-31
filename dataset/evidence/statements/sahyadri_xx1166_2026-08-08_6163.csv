@@ -1,0 +1,19 @@
+# Sahyadri Bank e-statement XX1166,period 2026-06-28..2026-08-08,generated 2026-08-08T22:04:00+05:30
+txn_date,description,withdrawal,deposit
+28-Jun-2026,UPI/BookNest,340.00,
+29-Jun-2026,POS/SnackShack,120.00,
+02-Jul-2026,UPI/FuelPoint,120.00,
+04-Jul-2026,UPI/FuelPoint,120.00,
+08-Jul-2026,UPI/DR/625551495301/Swathi Menon,7500.00,
+08-Jul-2026,UPI/DR/633967036520/Swathi Menon,7500.00,
+10-Jul-2026,POS/SnackShack,850.00,
+14-Jul-2026,POS/SnackShack,500.00,
+15-Jul-2026,UPI/REV/625551495301/Swathi Menon,,7500.00
+16-Jul-2026,UPI/FuelPoint,120.00,
+23-Jul-2026,POS/SnackShack,60.00,
+26-Jul-2026,ATM WDL,340.00,
+27-Jul-2026,NEFT CR SALARY ACME INFRA,,15000.00
+29-Jul-2026,UPI/BookNest,500.00,
+30-Jul-2026,IMPS CR FAMILY,,15000.00
+31-Jul-2026,UPI/PowerGrid Bills,60.00,
+05-Aug-2026,UPI/FuelPoint,850.00,

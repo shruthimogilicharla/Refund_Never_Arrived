@@ -1,0 +1,9 @@
+From: support@stylelane.test
+Subject: Refund processed for order ORD666683
+
+Hi,
+
+Your payment of Rs 3,200.00 for order ORD666683 could not be completed.
+We have processed a refund (UPI Ref 683137937899). It will reflect in your account in 5-7 working days.
+
+Team StyleLane

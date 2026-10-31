@@ -1,0 +1,8 @@
+# Deccan Co-op Bank e-statement XX1004,period 2026-08-31..2026-09-14,generated 2026-09-14T22:15:00+05:30
+txn_date,description,withdrawal,deposit
+02-Sep-2026,POS/SnackShack,500.00,
+03-Sep-2026,UPI/BookNest,850.00,
+04-Sep-2026,UPI/DR/641601966096/SnackShack,3200.00,
+07-Sep-2026,REFUND/SNACKSHACK/ORD153715,,3200.00
+10-Sep-2026,IMPS CR FAMILY,,25000.00
+13-Sep-2026,UPI/BookNest,120.00,

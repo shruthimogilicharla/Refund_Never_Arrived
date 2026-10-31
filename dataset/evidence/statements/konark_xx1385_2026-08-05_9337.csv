@@ -1,0 +1,8 @@
+# Konark Bank e-statement XX1385,period 2026-07-26..2026-08-05,generated 2026-08-05T23:25:00+05:30
+txn_date,description,withdrawal,deposit
+26-Jul-2026,IMPS CR FAMILY,,25000.00
+29-Jul-2026,ATM WDL,120.00,
+31-Jul-2026,UPI/BookNest,1500.00,
+02-Aug-2026,IMPS CR FAMILY,,5000.00
+02-Aug-2026,UPI/DR/614593858272/Lakshmi Naid,1200.50,
+02-Aug-2026,UPI/REV/614593858272/Lakshmi Naid,,300.12

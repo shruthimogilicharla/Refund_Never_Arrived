@@ -1,0 +1,9 @@
+# Sahyadri Bank e-statement XX1338,period 2026-06-11..2026-06-26,generated 2026-06-26T23:36:00+05:30
+txn_date,description,withdrawal,deposit
+12-Jun-2026,UPI/BookNest,120.00,
+15-Jun-2026,NEFT CR SALARY ACME INFRA,,15000.00
+15-Jun-2026,UPI/DR/641828283068/QuickKart,1200.00,
+19-Jun-2026,UPI/FuelPoint,500.00,
+21-Jun-2026,IMPS CR FAMILY,,5000.00
+22-Jun-2026,POS/SnackShack,340.00,
+25-Jun-2026,NEFT CR SALARY ACME INFRA,,5000.00

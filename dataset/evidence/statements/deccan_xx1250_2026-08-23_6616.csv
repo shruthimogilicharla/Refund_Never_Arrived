@@ -1,0 +1,8 @@
+# Deccan Co-op Bank e-statement XX1250,period 2026-08-13..2026-08-23,generated 2026-08-23T20:49:00+05:30
+txn_date,description,withdrawal,deposit
+13-Aug-2026,POS/SnackShack,500.00,
+15-Aug-2026,NEFT CR SALARY ACME INFRA,,15000.00
+21-Aug-2026,IMPS/DR/630341548593/Vikram Naidu,2000.00,
+21-Aug-2026,REV-548593 IMPS CR,,1200.00
+22-Aug-2026,IMPS/REV/630341548593/Vikram Naidu,,800.00
+23-Aug-2026,ATM WDL,60.00,

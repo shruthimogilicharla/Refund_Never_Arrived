@@ -1,0 +1,10 @@
+# Sahyadri Bank e-statement XX1305,period 2026-07-06..2026-07-26,generated 2026-07-26T20:50:00+05:30
+txn_date,description,withdrawal,deposit
+08-Jul-2026,NEFT CR SALARY ACME INFRA,,5000.00
+11-Jul-2026,POS/SnackShack,850.00,
+12-Jul-2026,IMPS CR FAMILY,,25000.00
+14-Jul-2026,IMPS/DR/680634358778/Swathi Gupta,750.00,
+17-Jul-2026,IMPS/REV/680634358778/Swathi Gupta,,750.00
+18-Jul-2026,UPI/FuelPoint,500.00,
+20-Jul-2026,POS/SnackShack,60.00,
+26-Jul-2026,UPI/PowerGrid Bills,1500.00,

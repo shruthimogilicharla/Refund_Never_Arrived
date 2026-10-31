@@ -1,0 +1,8 @@
+# Godavari Bank e-statement XX1206,period 2026-06-04..2026-06-15,generated 2026-06-15T20:01:00+05:30
+txn_date,description,withdrawal,deposit
+05-Jun-2026,UPI/FuelPoint,120.00,
+06-Jun-2026,NEFT CR SALARY ACME INFRA,,25000.00
+07-Jun-2026,UPI/FuelPoint,1500.00,
+09-Jun-2026,IMPS CR FAMILY,,25000.00
+11-Jun-2026,UPI/DR/691974993009/PowerGrid Bi,499.00,
+14-Jun-2026,REV-993009 UPI CR,,499.00

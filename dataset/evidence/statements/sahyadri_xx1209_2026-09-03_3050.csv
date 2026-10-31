@@ -1,0 +1,7 @@
+# Sahyadri Bank e-statement XX1209,period 2026-08-25..2026-09-03,generated 2026-09-03T23:39:00+05:30
+txn_date,description,withdrawal,deposit
+27-Aug-2026,IMPS CR FAMILY,,25000.00
+28-Aug-2026,UPI/BookNest,1500.00,
+28-Aug-2026,UPI/DR/637084015640/SnackShack,750.00,
+30-Aug-2026,UPI/BookNest,500.00,
+03-Sep-2026,UPI/FuelPoint,120.00,

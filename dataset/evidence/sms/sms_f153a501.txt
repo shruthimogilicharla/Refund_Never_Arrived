@@ -1,0 +1,4 @@
+# SMS export for 9419082386
+08-06-26 17:44 | Rs.12,000.00 debited from A/c XX1377 to kiran24@deccan Ref 635498246030. Not you? Call 1800-000-000 -Godavari Bank
+08-06-26 19:44 | Your txn Ref 635498246030 of Rs.12,000.00 failed. Amount if debited will be reversed within 3-5 working days -Godavari Bank
+09-06-26 17:44 | Refund of Rs.12,000.00 for Ref 635498246030 processed successfully -Godavari Bank

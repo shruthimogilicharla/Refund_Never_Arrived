@@ -1,0 +1,9 @@
+From: support@powergridbills.test
+Subject: Refund processed for order ORD400232
+
+Hi,
+
+Your payment of Rs 1,200.50 for order ORD400232 could not be completed.
+We have processed a refund (UPI Ref 607228005484). It will reflect in your account in 5-7 working days.
+
+Team PowerGrid Bills

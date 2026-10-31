@@ -1,0 +1,4 @@
+# SMS export for 9754735486
+26-08-26 14:30 | Rs.2,000.00 debited from A/c XX1155 to priya13@deccan Ref 612760042238. Not you? Call 1800-000-000 -Sahyadri Bank
+26-08-26 16:30 | Your txn Ref 612760042238 of Rs.2,000.00 failed. Amount if debited will be reversed within 3-5 working days -Sahyadri Bank
+27-08-26 14:30 | Refund of Rs.2,000.00 for Ref 612760042238 processed successfully -Sahyadri Bank

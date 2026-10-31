@@ -1,0 +1,8 @@
+# Sahyadri Bank e-statement XX1052,period 2026-08-22..2026-09-04,generated 2026-09-04T21:06:00+05:30
+txn_date,description,withdrawal,deposit
+24-Aug-2026,NEFT CR SALARY ACME INFRA,,25000.00
+26-Aug-2026,UPI/DR/600095681172/FreshBasket,150.00,
+28-Aug-2026,UPI/PowerGrid Bills,850.00,
+01-Sep-2026,IMPS CR FAMILY,,15000.00
+01-Sep-2026,UPI/REV/600095681172/FreshBasket,,37.50
+03-Sep-2026,UPI/PowerGrid Bills,340.00,

@@ -1,0 +1,5 @@
+# Konark Bank e-statement XX1286,period 2026-06-25..2026-07-01,generated 2026-07-01T23:43:00+05:30
+txn_date,description,withdrawal,deposit
+27-Jun-2026,NEFT CR SALARY ACME INFRA,,25000.00
+28-Jun-2026,POS/SnackShack,340.00,
+29-Jun-2026,UPI/DR/697348990956/QuickKart,1200.50,
